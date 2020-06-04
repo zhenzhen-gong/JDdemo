@@ -1,0 +1,15 @@
+.navigation{
+    height: 30px;
+    background: #e3e4e5;
+    border-bottom: 1px solid #dddddd;
+}
+.nav-box{
+    text-align: right;
+    width: 1190px;
+    margin: 0px auto;
+}
+.navigation ul li{
+    display: inline-block;
+    padding: 0px 10px;
+    text-decoration: none;
+}

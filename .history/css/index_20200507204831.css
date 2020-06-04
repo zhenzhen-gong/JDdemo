@@ -1,0 +1,11 @@
+.navigation{
+    height: 30px;
+    background: #e3e4e5;
+    border-bottom: 1px solid #dddddd;
+    text-align: right;
+}
+.navigation ul li{
+    display: inline-block;
+    color: ;
+    text-decoration: none;
+}
